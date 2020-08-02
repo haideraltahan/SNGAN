@@ -3,7 +3,7 @@
 
 ### Motivation
 
-I had difficulty understanding how to implement SN GAN and was not able resources that does explain the implementation. Hence here I provide a very simplistic implementation on MNIST with only fully connected layers.
+I had difficulty understanding how to implement SNGAN and was not able to find resources that does explain the implementation. Hence here I provide a very simplistic implementation on MNIST with only fully connected layers.
 
 ### How to run
 
