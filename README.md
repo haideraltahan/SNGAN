@@ -23,4 +23,7 @@ I had difficulty understanding how to implement SNGAN and was not able to find r
     --betas=(0.5, 0.9)      :   Adam optimizers beta hyperparameters
     --n_epochs=200          :   Maximum number of epochs to train
     --sample_interval=500   :   Generate samples from generator every `sample_interval` iteration during training.
-    
+
+### Result
+
+![Alt Text](./myimage.gif)
